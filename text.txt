@@ -8,4 +8,8 @@ gggggggggggggg
 My-branch 11
 My-branch 22
 
+<<<<<<< HEAD
 My update,not others
+=======
+other begin update
+>>>>>>> ee1dbaa5df67edcb02b7bc82e3c7be4564731608
