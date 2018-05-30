@@ -15,3 +15,4 @@ other begin update
 >>>>>>> ee1dbaa5df67edcb02b7bc82e3c7be4564731608
 
 新加内容111
+利用vi新加内容。ddddd
