@@ -1,5 +1,8 @@
 ssstext1
 text2
+
+Master add 111
+
 sdfsadfs
 Sdfsdfs
 
@@ -7,6 +10,7 @@ gggggggggggggg
 
 My-branch 11
 My-branch 22
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 My update,not others
@@ -27,3 +31,6 @@ Sdkjlskdjflaskdjfalsdkj
 Fjkldjldskjdlsdk
 >>>>>>> 51a69b4a83c84687a286564e67dc7255fe48e8f0
 复旦大学大幅度
+=======
+>>>>>>> master
+是的发送到
